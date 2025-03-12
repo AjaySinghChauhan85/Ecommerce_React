@@ -11,7 +11,7 @@ const ContactPage = () => {
           <div className="col-md-4 col-lg-4 col-sm-8 mx-auto">
             <form>
               <div class="form my-3">
-                <label for="Name">Name Ajay</label>
+                <label for="Name">Name</label>
                 <input
                   type="email"
                   class="form-control"
